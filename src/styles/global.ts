@@ -55,12 +55,12 @@ table {
 * {
     box-sizing: border-box; 
     font-family: 'Roboto', sans-serif;
-    input, button {
-        border: none;
-        outline: none;
-    }
-	button {
-		cursor: pointer;
-	}
+}
+input, button {
+	border: none;
+	outline: none;
+}
+button {
+	cursor: pointer;
 }
 `;
